@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "U4Mx-n79kbAiCWMPnplvx5czKog",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "6Zymq6IzB7RN44WqLDxniPGA2WQ",
+            "id": "UgxY8nPrqQfTEt6cyht4AaABAg",
+            "snippet": {
+                "channelId": "UCIB65_E_7XEScU2NB135wDw",
+                "videoId": "K8jcaJfKPuw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "yMDNIRumXYiX7lF9krMsWOtwFoY",
+                    "id": "UgxY8nPrqQfTEt6cyht4AaABAg",
+                    "snippet": {
+                        "channelId": "UCIB65_E_7XEScU2NB135wDw",
+                        "videoId": "K8jcaJfKPuw",
+                        "textDisplay": "\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89.  F9",
+                        "textOriginal": "\u2764\u2764\u2764\ud83c\udf89\ud83c\udf89\ud83c\udf89.  F9",
+                        "authorDisplayName": "@NurMohammadManik-w6o",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l3w5pHbAbv1UvTOPK0opzB0B7dPW0ZNUdarnydvhKgG4l6j3Av59TtPzgAeNOLj7pxDQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@NurMohammadManik-w6o",
+                        "authorChannelId": {
+                            "value": "UCT929w4AC_6wqvvhiEfEn6w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-10-05T07:13:32Z",
+                        "updatedAt": "2023-10-05T07:13:32Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}

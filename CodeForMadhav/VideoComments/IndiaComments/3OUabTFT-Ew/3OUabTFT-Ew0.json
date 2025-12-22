@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "8OluobNHy2rb1OFFIGc4ZzXwDvs",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "QVjSAOCw8AUKS8nHMxFIi4XsTTY",
+            "id": "UgxaODyeLeJG6lsMNDV4AaABAg",
+            "snippet": {
+                "channelId": "UCXuO_AmrcE16fDoNiq9JZZg",
+                "videoId": "3OUabTFT-Ew",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Ks7EZ9TiJ6rIGRXolUpJG7fPq90",
+                    "id": "UgxaODyeLeJG6lsMNDV4AaABAg",
+                    "snippet": {
+                        "channelId": "UCXuO_AmrcE16fDoNiq9JZZg",
+                        "videoId": "3OUabTFT-Ew",
+                        "textDisplay": "I like the female vocalists he's used for this composition. They're all such versatile singers but they still manage contribute to the song collectively, without overpowering each other.",
+                        "textOriginal": "I like the female vocalists he's used for this composition. They're all such versatile singers but they still manage contribute to the song collectively, without overpowering each other.",
+                        "authorDisplayName": "@advocatusdiabolicus1",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kEBsFlYJCTHHX80e1b1ab42V93YVMbBKrp5i6Vp30ejyU=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@advocatusdiabolicus1",
+                        "authorChannelId": {
+                            "value": "UClUoBB1-8lCKzxphDWDPQvQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2012-08-11T12:32:56Z",
+                        "updatedAt": "2012-08-11T12:32:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}

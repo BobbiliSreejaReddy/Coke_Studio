@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "2x2AEB2MsdeKmQep_RC6KV5aATU",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "p_S2ScH0BB4TjJsWWQ0vu7jbYLY",
+            "id": "UgygH266EayU_w39bkh4AaABAg",
+            "snippet": {
+                "channelId": "UCIB65_E_7XEScU2NB135wDw",
+                "videoId": "WLqYCRMCe_s",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "zfqaI09ksfeZBMGBsNFtqier_lQ",
+                    "id": "UgygH266EayU_w39bkh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCIB65_E_7XEScU2NB135wDw",
+                        "videoId": "WLqYCRMCe_s",
+                        "textDisplay": "Love you vaiya",
+                        "textOriginal": "Love you vaiya",
+                        "authorDisplayName": "@saffatnurrafi4871",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/x0palh-UFkvIo2JJFp9MGlyEEnTWMc7lDu4sfavWGPlkz29uTreuKA05fAfxfwhd5PkQQ0S5eA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@saffatnurrafi4871",
+                        "authorChannelId": {
+                            "value": "UCrK1yIRJ7lmUmtuw0bPN_7A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2023-07-18T12:42:46Z",
+                        "updatedAt": "2023-07-18T12:42:46Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}

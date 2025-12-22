@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "49YKGczIlLnWWGq_MQiaMyFMlV4",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ePLfXvbosvNVwh8W4QMmyH-8EfM",
+            "id": "UgxrIXofVj81GEyd3i94AaABAg",
+            "snippet": {
+                "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+                "videoId": "jWI2NsVaTjI",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "cOqpi8iCx6ySWfOt84H31DcmNnI",
+                    "id": "UgxrIXofVj81GEyd3i94AaABAg",
+                    "snippet": {
+                        "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+                        "videoId": "jWI2NsVaTjI",
+                        "textDisplay": "How embarrassing to our country.",
+                        "textOriginal": "How embarrassing to our country.",
+                        "authorDisplayName": "@Barney_Rubble247",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/8_PMHQkdzID8HzTqaqR48UQngeVddpeoE1q7vuEvldiXFN9CERJbjEb7hP3ADOcnbUVTp_FbfYI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Barney_Rubble247",
+                        "authorChannelId": {
+                            "value": "UConSix9DuqhBqM6HWwfDfcg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 30,
+                        "publishedAt": "2022-02-03T20:21:56Z",
+                        "updatedAt": "2022-02-03T20:22:39Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 13,
+                "isPublic": true
+            }
+        }
+    ]
+}

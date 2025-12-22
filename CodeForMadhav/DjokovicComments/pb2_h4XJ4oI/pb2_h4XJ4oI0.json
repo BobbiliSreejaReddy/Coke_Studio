@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "5RaIpZVVZAjz7Xyz8DGbc039BLk",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "NIEVK9_hGFQbsfoOHJogz8WWcC4",
+            "id": "UgxKH2CQiLj08yMYwGx4AaABAg",
+            "snippet": {
+                "channelId": "UCRsBcOtZYyIlJBYMfhm5Msg",
+                "videoId": "pb2_h4XJ4oI",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "wYCg9Wihtvlpnlm5rFtWMKE88Pg",
+                    "id": "UgxKH2CQiLj08yMYwGx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCRsBcOtZYyIlJBYMfhm5Msg",
+                        "videoId": "pb2_h4XJ4oI",
+                        "textDisplay": "What a silly carry on this is. The Australian dictators and their collaborators need to be locked up to experience what it feels like to be at the other end of the authoritarian rule.\n\nFreedom for everybody else.",
+                        "textOriginal": "What a silly carry on this is. The Australian dictators and their collaborators need to be locked up to experience what it feels like to be at the other end of the authoritarian rule.\n\nFreedom for everybody else.",
+                        "authorDisplayName": "@DXmYb",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/7lXPsIBc3HFlJpwo0PMCrhmh9i6EKTOyiiVv8afz4uRP6whq3QJ_c-Eg6PmV_cl1-_2a7Swz=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@DXmYb",
+                        "authorChannelId": {
+                            "value": "UC1femSleSSjSiyh8zFLHb8Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-01-10T20:46:21Z",
+                        "updatedAt": "2022-01-10T20:46:34Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}

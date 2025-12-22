@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "Xp5WMmn2AQwXnI1_Cu96bgBJ6A4",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "MRwQ5m-QENJkqgnzyAnAYL6yvnk",
+            "id": "UgyPrKA9EhrRobmU11h4AaABAg",
+            "snippet": {
+                "channelId": "UCXuO_AmrcE16fDoNiq9JZZg",
+                "videoId": "P90bAzZhj_k",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "vdjr4OG1T3cOozW6BW5kiq94j1g",
+                    "id": "UgyPrKA9EhrRobmU11h4AaABAg",
+                    "snippet": {
+                        "channelId": "UCXuO_AmrcE16fDoNiq9JZZg",
+                        "videoId": "P90bAzZhj_k",
+                        "textDisplay": "Hit eureka!",
+                        "textOriginal": "Hit eureka!",
+                        "authorDisplayName": "@RatherPratty",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/M4JH99dZHJ-TTWgKWjBbhf1u8PxOngDPTCIQlJKDKR3kZ2ga-iISHa80Jf5QvDWPloN9wTtN5g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@RatherPratty",
+                        "authorChannelId": {
+                            "value": "UCCYrr4-KV5dsp_Qn_UEoHrQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2025-09-11T16:54:09Z",
+                        "updatedAt": "2025-09-11T16:54:09Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}

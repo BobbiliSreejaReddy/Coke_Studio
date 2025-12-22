@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "ZvjhG4V_--n51VYF9hxkF3GtfvQ",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "EOqZjItWjKX5JuOasjW6o7PMCPI",
+            "id": "UgzDXtUptTgB_d5eSNt4AaABAg",
+            "snippet": {
+                "channelId": "UCXuO_AmrcE16fDoNiq9JZZg",
+                "videoId": "LTY7BsUwl48",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jc5cKOJTmaPz7vi7XzkJv33XnHA",
+                    "id": "UgzDXtUptTgB_d5eSNt4AaABAg",
+                    "snippet": {
+                        "channelId": "UCXuO_AmrcE16fDoNiq9JZZg",
+                        "videoId": "LTY7BsUwl48",
+                        "textDisplay": "Mera channel monetize hogaya \u2705 love you All \ud83e\udd70\ud83d\ude18\u2764\ufe0f\ud83d\ude18",
+                        "textOriginal": "Mera channel monetize hogaya \u2705 love you All \ud83e\udd70\ud83d\ude18\u2764\ufe0f\ud83d\ude18",
+                        "authorDisplayName": "@AK-TWIST",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/THRsvrZJMtmqhMamw9mAyIXHiSR4Pw_I7XfCA269aUHoG9AxcgM5eDBLFAFFrzRwQTtrW0WI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@AK-TWIST",
+                        "authorChannelId": {
+                            "value": "UCjPyKv4eBkY9aHdbi6877CQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-04-05T06:20:37Z",
+                        "updatedAt": "2024-04-05T06:20:37Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}

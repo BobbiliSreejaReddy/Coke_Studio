@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "r1PwkEZRYEk2WzL7tyg8JC6coTk",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "cn0sd1HkFVfagO__kp-c9sF29o0",
+            "id": "UgxX_BLv3aZWBMJLX7V4AaABAg",
+            "snippet": {
+                "channelId": "UCXuO_AmrcE16fDoNiq9JZZg",
+                "videoId": "qwafcjlSslY",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "TLGqQfJOf4B1S3CU3RoOe4ZWHuE",
+                    "id": "UgxX_BLv3aZWBMJLX7V4AaABAg",
+                    "snippet": {
+                        "channelId": "UCXuO_AmrcE16fDoNiq9JZZg",
+                        "videoId": "qwafcjlSslY",
+                        "textDisplay": "this songs been giving me such goosebumps",
+                        "textOriginal": "this songs been giving me such goosebumps",
+                        "authorDisplayName": "@advocatusdiabolicus1",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kEBsFlYJCTHHX80e1b1ab42V93YVMbBKrp5i6Vp30ejyU=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@advocatusdiabolicus1",
+                        "authorChannelId": {
+                            "value": "UClUoBB1-8lCKzxphDWDPQvQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2012-08-11T12:29:13Z",
+                        "updatedAt": "2012-08-11T12:29:13Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}

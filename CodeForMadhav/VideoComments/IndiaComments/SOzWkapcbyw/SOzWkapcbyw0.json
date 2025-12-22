@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "YqtOYtDZTYWUC22ybRlxP3Hccuc",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "CHGJMe0Wykm12iFCp005Z0lm6rA",
+            "id": "UgwUspuyMjVjwT9el8V4AaABAg",
+            "snippet": {
+                "channelId": "UCXuO_AmrcE16fDoNiq9JZZg",
+                "videoId": "SOzWkapcbyw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "I7x7fdEsEipTtuuF2-O0Vm0hhuY",
+                    "id": "UgwUspuyMjVjwT9el8V4AaABAg",
+                    "snippet": {
+                        "channelId": "UCXuO_AmrcE16fDoNiq9JZZg",
+                        "videoId": "SOzWkapcbyw",
+                        "textDisplay": "good\n",
+                        "textOriginal": "good\n",
+                        "authorDisplayName": "@gauravvani4373",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nJz4I4t8oGPFaeE8i84rF6nCamkjIBRxG2ASe7rQ1v=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@gauravvani4373",
+                        "authorChannelId": {
+                            "value": "UCYTEd1NzL1M0JvOw3LZpjmA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2012-08-04T15:28:10Z",
+                        "updatedAt": "2012-08-04T15:28:10Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "eg75doVlyQP5xWgsgjpplEpo1yA",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "4wS68lzpk46id-ulVixGM3oyjDI",
+            "id": "Ugzjv55xhZTG3LgyMV14AaABAg",
+            "snippet": {
+                "channelId": "UCXuO_AmrcE16fDoNiq9JZZg",
+                "videoId": "vKi9wEa16Oc",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "-CQMxGPf-fsMw8ssog8mvY31_94",
+                    "id": "Ugzjv55xhZTG3LgyMV14AaABAg",
+                    "snippet": {
+                        "channelId": "UCXuO_AmrcE16fDoNiq9JZZg",
+                        "videoId": "vKi9wEa16Oc",
+                        "textDisplay": "Brilliant \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+                        "textOriginal": "Brilliant \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+                        "authorDisplayName": "@justusfernz",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nB5sX7n9QR511iLDGCNRhMxIFzqzBE0wi4P8QNvTf5L1Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@justusfernz",
+                        "authorChannelId": {
+                            "value": "UCDGxIlc9rlSgjmF6k6JWC2Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2020-10-06T11:42:51Z",
+                        "updatedAt": "2020-10-06T11:42:51Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "y815NGaA6fANqGZFyLDhG90ERo0",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "yxnkjMoDwLZzM4ZPp_smcpLcVh4",
+            "id": "UgxOgWwj6lhmNNvRBe94AaABAg",
+            "snippet": {
+                "channelId": "UCXuO_AmrcE16fDoNiq9JZZg",
+                "videoId": "lxh7UEbJ_Iw",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "h_S23h3hKPLcnxCI0AmKi-BNlEI",
+                    "id": "UgxOgWwj6lhmNNvRBe94AaABAg",
+                    "snippet": {
+                        "channelId": "UCXuO_AmrcE16fDoNiq9JZZg",
+                        "videoId": "lxh7UEbJ_Iw",
+                        "textDisplay": "Great learning experience \ud83d\ude03\ud83d\udc4d",
+                        "textOriginal": "Great learning experience \ud83d\ude03\ud83d\udc4d",
+                        "authorDisplayName": "@ambarishroul7278",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kvit2QxVzzqzETC0IoEfkZb8hDIgfAQN1dYeHFHt_WQJw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@ambarishroul7278",
+                        "authorChannelId": {
+                            "value": "UCCjptWiAbQ44u8FLs7q6O0Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2021-08-23T05:08:24Z",
+                        "updatedAt": "2021-08-23T05:08:24Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}

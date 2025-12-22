@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "mOYPBN9Oi9iQzxP2DCDIuA9iLq0",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Vct78EiZTNygHkLBFB8Nu-606bk",
+            "id": "Ugw1kWZ2b8MMdEXI78V4AaABAg",
+            "snippet": {
+                "channelId": "UCCaklQ98ufViCAds5gdj49A",
+                "videoId": "YIBKOXc8Vbs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "MhJn2mvhIQcXxkiseF7pprTiUdk",
+                    "id": "Ugw1kWZ2b8MMdEXI78V4AaABAg",
+                    "snippet": {
+                        "channelId": "UCCaklQ98ufViCAds5gdj49A",
+                        "videoId": "YIBKOXc8Vbs",
+                        "textDisplay": "Holy Moly!",
+                        "textOriginal": "Holy Moly!",
+                        "authorDisplayName": "@0Tyr",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kzWRalCuGDgW9snY6jZrWT_ONindHjWxBLJCGqkhI_mKw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@0Tyr",
+                        "authorChannelId": {
+                            "value": "UCxWWF8tVheMQBaooFceIUKA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-01-15T21:12:09Z",
+                        "updatedAt": "2022-01-15T21:12:09Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}

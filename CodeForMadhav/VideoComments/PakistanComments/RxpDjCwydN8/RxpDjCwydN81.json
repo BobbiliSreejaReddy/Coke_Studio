@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "IeZzOcfTbMZNK5gJk-XDOvOdxXA",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "gi3FZiTwpKRX4X_1i9WmvobjO4Q",
+            "id": "Ugx2ZGw7j4HGSGU6Li54AaABAg",
+            "snippet": {
+                "channelId": "UCM1VesJtJ9vTXcMLLr_FfdQ",
+                "videoId": "RxpDjCwydN8",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "S2VT0V_kNrIfZMCeefpJJIwsg9U",
+                    "id": "Ugx2ZGw7j4HGSGU6Li54AaABAg",
+                    "snippet": {
+                        "channelId": "UCM1VesJtJ9vTXcMLLr_FfdQ",
+                        "videoId": "RxpDjCwydN8",
+                        "textDisplay": "1",
+                        "textOriginal": "1",
+                        "authorDisplayName": "@prathamcsking",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Vy_PjClJZVWCDFILWLWPlK5Mvx32dyRkKMV635TQ4cyHBlPFduBZBUpc0a7KktiblCx2etFz=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@prathamcsking",
+                        "authorChannelId": {
+                            "value": "UC-LHezmn3uAGP9857nLQE-w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2022-10-07T16:16:23Z",
+                        "updatedAt": "2022-10-07T16:16:23Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "mrJG_cCcpynqsvty00-tBPc3a-o",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "XR2BL06JFuJLKbWCg93IwOBKoLU",
+            "id": "UgwPgJ1PsHYWwXmMTWZ4AaABAg",
+            "snippet": {
+                "channelId": "UCM1VesJtJ9vTXcMLLr_FfdQ",
+                "videoId": "YYbBpjNOIu0",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "uoezzEp2bQmDJex4vEjgR8ZZnXQ",
+                    "id": "UgwPgJ1PsHYWwXmMTWZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCM1VesJtJ9vTXcMLLr_FfdQ",
+                        "videoId": "YYbBpjNOIu0",
+                        "textDisplay": "What is the average temperature in Pakistan?",
+                        "textOriginal": "What is the average temperature in Pakistan?",
+                        "authorDisplayName": "@thanos.manesis",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kBZmm7gLIbobJbZW21CuLTy2UlwZEyqUD7KZMWVVk=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@thanos.manesis",
+                        "authorChannelId": {
+                            "value": "UCaEnlFD_tYZ9P0VaY0TMIHA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2017-11-12T10:59:38Z",
+                        "updatedAt": "2017-11-12T10:59:38Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}
